@@ -8,7 +8,7 @@ I'm learning how to build web applications from scratch using Java, with a stron
 > - [ ] means **not completed yet**
 
 ## Progress  
-![Progress](https://progress-bar.dev/8/?scale=100&title=Done&width=500&color=babaca)
+![Progress](https://img.shields.io/badge/Progress-8%25-brightgreen)
 
 ## Java Basics
 - [✓] Primitive Data Types, Variables and Arrays  
