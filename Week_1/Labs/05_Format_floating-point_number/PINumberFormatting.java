@@ -8,18 +8,19 @@ d- The third time Math.PI contains three fraction digits
 e- The fourth time Math.PI contains four fraction digits
 f- The fifth time Math.PI contains five fraction digits
 */
+
 //Java
-    public class PINumberFormatting {
-	
+	public class PINumberFormatting {
+		
 	public static void main(String[] args) {
 		for(int i=1; i<=5; i++){
 			System.out.println(String.format("%."+i+"f",Math.PI));
+				
+			}
 			
 		}
-		
+	
 	}
-
-}
 
 /*
 Explanation:
