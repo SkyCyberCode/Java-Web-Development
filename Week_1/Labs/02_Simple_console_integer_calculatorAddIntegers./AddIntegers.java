@@ -17,10 +17,10 @@ public class AddIntegers {
 
 }
 
-/*
-	** First of all, I'm using VS Code :) **
- 
+/* 
 Explanation:
+		** First of all, I'm using VS Code :) **
+  
   1. The main method takes input arguments in the form of a String array called "args[]".
      When the program is executed from the command line, the user provides these arguments.
 
