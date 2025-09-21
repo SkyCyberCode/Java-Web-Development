@@ -1,4 +1,5 @@
-Covered titles:
+# Covered titles:
+```
   - Introduction
   - Java Basics
   - Primitive Data Types, Variables and Arrays
@@ -19,3 +20,4 @@ Covered titles:
   - Exception Handling
   - Java Collections Framework
   - Generics
+```
