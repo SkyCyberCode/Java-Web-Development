@@ -8,14 +8,15 @@ int i = Integer.parseInt(“1”);
 
 c- Program prints sum of integers to console
 */
-
-public class AddIntegers {
-
-    public static void main(String[] args) {
-		System.out.println(Integer.parseInt(args[0])+Integer.parseInt(args[1]));
+//Java
+	
+	public class AddIntegers {
+	
+	    public static void main(String[] args) {
+			System.out.println(Integer.parseInt(args[0])+Integer.parseInt(args[1]));
+		}
+	
 	}
-
-}
 
 /* 
 Explanation:
