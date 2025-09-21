@@ -18,17 +18,21 @@ public class AddIntegers {
 }
 
 /*
+	** First of all, I'm using VS Code :) **
+ 
 Explanation:
-  1- In Main method.. it has an empty array called "args", We can make user give us an input, We will use it as input method.
-    ~ The user will give us the inputs after Compilation Process.
+  1. The main method takes input arguments in the form of a String array called "args[]".
+     When the program is executed from the command line, the user provides these arguments.
+
+  2-  Since the inputs are Strings, we use the method Integer.parseInt() to convert them into integers.
+  
+  3. After conversion, we simply add the two integers and print the result using System.out.println().
+
     ```Terminal
           javac AddIntegers.java
           java AddIntegers 3 5
     ```
-    
-  2- The input data type will be "String" and the program want us to calculate numbers. so, We will use "Integer.parseInt();" Method to convert from "Strings" to "Integers".
-  
-  At the end, We will print the result by using "System.out.println();".
+	Output: 8
 
   📌 Note: If you run the program without passing 2 arguments, it will throw an ArrayIndexOutOfBoundsException.
 */
