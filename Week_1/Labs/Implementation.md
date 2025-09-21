@@ -18,6 +18,10 @@ notepad Main.java
 You can change "Main" to whatever you want.  
 It will say that there is no file with that name and ask to make a new one (Click **Yes**).  
 
+💡 Note:
+Make sure you are inside the same folder where your Java files (Main.java, Main.class) and script (Script.bat) are located.
+Otherwise, the commands (javac, java, del) won’t work correctly.
+
 ---
 
 2. Open the file (**Main.java**) and type the following code:  
