@@ -9,37 +9,37 @@ e- In case such triangle doesn’t exist, print to console ‘NaN’
 */
 
 //Java
-  import java.util.Scanner;
-
-public class AreaOfTriangle {
+	import java.util.Scanner;
 	
-	public static void main(String[] args) {
-		Scanner sc = new Scanner(System.in);
+	public class AreaOfTriangle {
 		
-		System.out.print("Please, enter A side of a triangle: ");
-		double A = sc.nextDouble();
-		
-		System.out.print("Please, enter B side of a triangle: ");
-		double B = sc.nextDouble();
-		
-		System.out.print("Please, enter C side of a triangle: ");
-		double C = sc.nextDouble();
-
-		double triangleArea;
-
-		if(A+B > C && B+C > A && A+C > B){
-			double p = (A+B+C)/2;
-			triangleArea = Math.sqrt(p * (p-A) * (p-B) * (p-C));
+		public static void main(String[] args) {
+			Scanner sc = new Scanner(System.in);
+			
+			System.out.print("Please, enter A side of a triangle: ");
+			double A = sc.nextDouble();
+			
+			System.out.print("Please, enter B side of a triangle: ");
+			double B = sc.nextDouble();
+			
+			System.out.print("Please, enter C side of a triangle: ");
+			double C = sc.nextDouble();
+	
+			double triangleArea;
+	
+			if(A+B > C && B+C > A && A+C > B){
+				double p = (A+B+C)/2;
+				triangleArea = Math.sqrt(p * (p-A) * (p-B) * (p-C));
+			}
+			
+			else {
+				triangleArea = Double.NaN;
+			}
+	
+			System.out.println("Triangle area is: " + triangleArea);
 		}
-		
-		else {
-			triangleArea = Double.NaN;
-		}
-
-		System.out.println("Triangle area is: " + triangleArea);
+	
 	}
-
-}
 
 /*
 Explanation:
