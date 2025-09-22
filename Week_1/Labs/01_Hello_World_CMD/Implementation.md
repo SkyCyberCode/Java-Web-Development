@@ -4,6 +4,10 @@
 ### Download
 -This step for all OS (Windows, Mac, Linux).. You can download it from the Official site of `Oracle` from here -> ```https://www.oracle.com/middleeast/java/technologies/downloads/```
 
+**Note**
+- I recommend you download Long-Term Support (LTS) JDK Version.
+- Long-term support (LTS) offers advantages like reduced costs from less frequent upgrades, greater stability and proven performance, and enhanced compatibility with other systems.
+
 ---
 
 ### Installation
@@ -27,9 +31,6 @@
 
 
 
-**Note**
-- I recommend you download Long-Term Support (LTS) JDK Version.
-- Long-term support (LTS) offers advantages like reduced costs from less frequent upgrades, greater stability and proven performance, and enhanced compatibility with other systems.
 
 ---
 
