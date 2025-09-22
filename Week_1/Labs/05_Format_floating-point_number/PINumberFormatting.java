@@ -26,8 +26,7 @@ f- The fifth time Math.PI contains five fraction digits
 Explanation:
 		** First of all, I'm using VS Code :) **
 
-1. Goal:
-   - Print Math.PI five times with increasing number of fraction digits (1..5).
+   - This program print Math.PI five times with increasing number of fraction digits (1..5).
 
 2. Approach:
    - Use a for-loop with variable 'i' from 1 to 5.
