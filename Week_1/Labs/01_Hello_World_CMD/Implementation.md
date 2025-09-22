@@ -14,8 +14,8 @@
 
    # Windows
    **Step 1: Run Installer**
-        - Double-click jdk-xx_windows-x64_bin.exe
-        - Follow setup wizard: Next → Next → Install
+   1- Double-click jdk-xx_windows-x64_bin.exe
+   2- Follow setup wizard: Next → Next → Install
         
    **Step 2: Set Environment Variables**
       1. Search "Environment Variables" in Start menu
