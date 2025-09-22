@@ -5,7 +5,7 @@
 -This step for all OS (Windows, Mac, Linux).. You can download it from the Official site of `Oracle` from here -> ```https://www.oracle.com/middleeast/java/technologies/downloads/```
 
 ### Installation
-    **Windows**
+   # Windows
         Step 1: Run Installer
         - Double-click jdk-xx_windows-x64_bin.exe
         - Follow setup wizard: Next → Next → Install
