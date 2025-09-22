@@ -15,9 +15,6 @@
 
 ---
 
-
----
-
 # First application: Hello World App With CMD
 
 **Question**  
