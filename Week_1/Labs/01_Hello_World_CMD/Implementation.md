@@ -14,7 +14,9 @@
 
    # Windows
    
-   **Step 1: Run Installer**
+   ### Steps: 
+
+   1. Run Installer**
    
    1- Double-click jdk-xx_windows-x64_bin.exe
    
