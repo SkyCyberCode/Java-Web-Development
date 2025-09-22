@@ -1,7 +1,21 @@
 # Don't forget before begining!!
 
-You should donwload JDK (Java Development Kit), It contains all Java tools like (javac, JRE, Javac, etc.)
-You can download it from the Official site of `Oracle` from here -> ```https://www.oracle.com/middleeast/java/technologies/downloads/```
+-You should donwload JDK (Java Development Kit), It contains all Java tools like (javac, JRE, Javac, etc.)
+-This step for all OS (Windows, Mac, Linux).. You can download it from the Official site of `Oracle` from here -> ```https://www.oracle.com/middleeast/java/technologies/downloads/```
+
+**Installation**
+
+
+
+
+
+
+
+
+
+
+
+
 
 **Note**
 - I recommend you download Long-Term Support (LTS) JDK Version.
