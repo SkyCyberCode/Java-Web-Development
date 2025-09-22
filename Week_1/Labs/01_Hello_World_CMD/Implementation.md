@@ -1,9 +1,16 @@
 # Don't forget before begining!!
-
 -You should donwload JDK (Java Development Kit), It contains all Java tools like (javac, JRE, Javac, etc.)
+
+### Download
 -This step for all OS (Windows, Mac, Linux).. You can download it from the Official site of `Oracle` from here -> ```https://www.oracle.com/middleeast/java/technologies/downloads/```
 
-**Installation**
+### Installation
+    **Windows**
+        Step 1: Run Installer
+        - Double-click jdk-xx_windows-x64_bin.exe
+        - Follow setup wizard: Next → Next → Install
+
+        
 
 
 
