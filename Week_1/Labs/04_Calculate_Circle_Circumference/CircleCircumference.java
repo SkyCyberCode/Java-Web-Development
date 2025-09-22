@@ -25,19 +25,14 @@ c- Program prints circle circumference to console
 
 /*
 Explanation:
-		** First of all, I'm using VS Code :) **
-   
-1- We used Scanner class to take input from the user.
-   → The user enters the radius of the circle.
+    ** First of all, I'm using VS Code :) **
 
-2- Formula for circle circumference:
-      C = 2 * π * r
-   → We used Math.PI for a more precise value of π.
+- This program calculates the circumference of a circle when given its radius
 
-3- After calculating, we printed the result using System.out.println().
+1- First I ask the user to enter the circle radius and read it as a double number
+2- I use the formula: circumference = 2 * π * radius
+3- I use Math.PI to get the exact value of π (pi)
+4- Finally I print the calculated circumference with a clear message
 
-So the program:
-- Starts by asking user for the circle radius.
-- Calculates the circumference with the formula.
-- Prints the circumference to the console.
+The program uses double data type to handle decimal numbers accurately for precise calculations
 */
