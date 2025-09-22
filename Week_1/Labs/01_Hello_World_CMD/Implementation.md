@@ -1,10 +1,10 @@
-# JDK Installation Guide for Windows, Linux, and macOS
 
-## Don't forget before beginning!!
-- You should download JDK (Java Development Kit), It contains all Java tools like (javac, JRE, Javac, etc.)
 
+# Don't forget before beginning!!
 ### Download
-- This step for all OS (Windows, Mac, Linux).. You can download it from the Official site of `Oracle` from here -> ```https://www.oracle.com/middleeast/java/technologies/downloads/```
+
+1- You should download JDK (Java Development Kit), It contains all Java tools like (javac, JRE, Javac, etc.)
+2- This step for all OS (Windows, Mac, Linux).. You can download it from the Official site of `Oracle` from here -> ```https://www.oracle.com/middleeast/java/technologies/downloads/```
 
 **Note**
 - I recommend you download Long-Term Support (LTS) JDK Version.
@@ -12,13 +12,7 @@
 
 ---
 
-## 🪟 Windows Installation
 
-### Step 1: Run Installer
-```cmd
-- Double-click the downloaded jdk-xx_windows-x64_bin.exe file
-- Follow the setup wizard: Click Next → Next → Install
-- Wait for installation to complete
 ---
 
 # First application: Hello World App With CMD
