@@ -24,5 +24,11 @@ d- In case two arguments are integer - the result of addition is integer
 Explanation:
     ** First of all, I'm using VS Code :) **
 
-    
+# This program takes two numbers and calculate the sum of them, but if any of them was floating-point number the expected result will be floating-point number also.
+
+1- I use "contains();" method to check if there is decimal point.
+   if If a decimal point is found, We will use "Double.parseDouble();" method to convert String -> Double.
+   if not, we will use "Integer.parseInt();" method to convert String -> Integer.
+
+2- At the end, We print the result.   
 */
