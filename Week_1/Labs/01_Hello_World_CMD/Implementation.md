@@ -1,8 +1,10 @@
-# Don't forget before begining!!
--You should donwload JDK (Java Development Kit), It contains all Java tools like (javac, JRE, Javac, etc.)
+# JDK Installation Guide for Windows, Linux, and macOS
+
+## Don't forget before beginning!!
+- You should download JDK (Java Development Kit), It contains all Java tools like (javac, JRE, Javac, etc.)
 
 ### Download
--This step for all OS (Windows, Mac, Linux).. You can download it from the Official site of `Oracle` from here -> ```https://www.oracle.com/middleeast/java/technologies/downloads/```
+- This step for all OS (Windows, Mac, Linux).. You can download it from the Official site of `Oracle` from here -> ```https://www.oracle.com/middleeast/java/technologies/downloads/```
 
 **Note**
 - I recommend you download Long-Term Support (LTS) JDK Version.
@@ -10,47 +12,13 @@
 
 ---
 
-### Installation
+## 🪟 Windows Installation
 
-   # Windows
-   
-   ### Steps: 
-
-   1. Run Installer
-   
-   1- Double-click jdk-xx_windows-x64_bin.exe
-   
-   2- Follow setup wizard: Next → Next → Install
-        
-   **Step 2: Set Environment Variables**
-      1. Search "Environment Variables" in Start menu
-      2. Click "Edit the system environment variables"
-      3. Click "Environment Variables" button
-      4. In System Variables section:
-         - Click "New" and add:
-           Variable name: JAVA_HOME
-           Variable value: C:\Program Files\Java\jdk-xx.x.x
-         - Edit Path variable:
-           Click "Edit" → "New" → Add: %JAVA_HOME%\bin
-        
-   **Step 3: Verify Installation**
-      Open Command Prompt and type:
-      ```CMD
-      java -version
-      javac -version```
-
-
-
-
-
-
-
-
-
-
-
-
-
+### Step 1: Run Installer
+```cmd
+- Double-click the downloaded jdk-xx_windows-x64_bin.exe file
+- Follow the setup wizard: Click Next → Next → Install
+- Wait for installation to complete
 ---
 
 # First application: Hello World App With CMD
