@@ -5,7 +5,7 @@
 
 - This step for all OS (Windows, Mac, Linux).. You should download JDK (Java Development Kit), It contains all Java tools like (javac, JRE, Javac, etc.)
 
-3- Follow the Installation steps in **JDK_Installation-Guide** file.
+- Follow the Installation steps in **JDK_Installation-Guide** file.
 
 ---
 
