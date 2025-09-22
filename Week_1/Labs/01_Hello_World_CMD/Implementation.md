@@ -13,8 +13,11 @@
 ### Installation
 
    # Windows
+   
    **Step 1: Run Installer**
+   
    1- Double-click jdk-xx_windows-x64_bin.exe
+   
    2- Follow setup wizard: Next → Next → Install
         
    **Step 2: Set Environment Variables**
