@@ -13,12 +13,26 @@
 ### Installation
 
    # Windows
-        Step 1: Run Installer
+   **Step 1: Run Installer**
         - Double-click jdk-xx_windows-x64_bin.exe
         - Follow setup wizard: Next → Next → Install
-
         
-
+   **Step 2: Set Environment Variables**
+      1. Search "Environment Variables" in Start menu
+      2. Click "Edit the system environment variables"
+      3. Click "Environment Variables" button
+      4. In System Variables section:
+         - Click "New" and add:
+           Variable name: JAVA_HOME
+           Variable value: C:\Program Files\Java\jdk-xx.x.x
+         - Edit Path variable:
+           Click "Edit" → "New" → Add: %JAVA_HOME%\bin
+        
+   **Step 3: Verify Installation**
+      Open Command Prompt and type:
+      ```CMD
+      java -version
+      javac -version```
 
 
 
