@@ -37,9 +37,9 @@ e- In case such triangle doesn’t exist, print to console ‘NaN’
 			}
 	
 			System.out.println("Triangle area is: " + triangleArea);
-		}
-	
-	}
+				}
+			
+			}
 
 /*
 Explanation:
