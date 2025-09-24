@@ -18,5 +18,4 @@
   - EXAM OOP & Object Oriented e-Commerce console applications
   - GIT
   - Exception Handling
-  - Generics
 ```
