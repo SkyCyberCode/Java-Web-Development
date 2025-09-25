@@ -16,6 +16,4 @@
   - PRACTICE: Coding exercises to practice SOLID principles
   - OOP: Interview Preparation
   - EXAM OOP & Object Oriented e-Commerce console applications
-  - GIT
-  - Exception Handling
 ```
