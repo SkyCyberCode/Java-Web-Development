@@ -9,11 +9,11 @@ I'm building a solid foundation in Java SE, Web, Spring, Security, and AI integr
 > - [ ] means **not completed yet**
 
 ## Progress  
-![Progress](https://img.shields.io/badge/Progress-0%25-brightgreen)
+![Progress](https://img.shields.io/badge/Progress-7.14%25-brightgreen)
 
 ---
 
-## Part 1 — Java Fundamentals [ ]
+## Part 1 — Java Fundamentals [✓]
 
 ---
 
