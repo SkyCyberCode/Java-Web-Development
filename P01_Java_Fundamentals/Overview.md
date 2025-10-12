@@ -1,19 +1,40 @@
-# Covered titles:
+# Topics I study:
 ```
-  - Introduction
-  - Java Basics
-  - Primitive Data Types, Variables and Arrays
-  - Eclipse: Tips and Tricks
-  - Operators and Operations with primitive types
-  - Strings in Java
-  - Control Statements
-  - Miscellaneous
-  - Iteration Statements (Loops) in Java
-  - Methods in Java
-  - Enumerations in Java
-  - Debugging Tools
-  - Object-oriented programming
-  - PRACTICE: Coding exercises to practice SOLID principles
-  - OOP: Interview Preparation
-  - EXAM OOP & Object Oriented e-Commerce console applications
+- About Latest Java Version
+- JDK Installation
+- First application: Hello World App
+- Integrated Development Environment, Eclipse Overview
+- Comments in Java source code
+- Primitive types and variables
+- Number Systems
+- Arrays
+- Packages: creation and package presentation in eclipse
+- Plugins: how to install free plugins, eclipse marketplace, workspace styles
+- Code Refactoring in Eclipse
+- Operators in Java
+- Operations with integers and floating-point numbers, BigDecimal type
+- Math class, NaN, Infinity
+- Type of the expression in Java
+- Compare primitive and reference types & Java Memory Model
+- Read user input from console
+- String: object creation and main methods overview
+- String comparison: How to compare Strings and what is String Pool
+- Escape Sequences in Java
+- String Formatting
+- Regular expressions in Java
+- 'if - else' construction
+- 'switch' construction
+- Random numbers generation
+- 'while' loop
+- 'do-while' loop
+- 'for' with condition loop
+- 'for each' loop
+- Nested loops
+- Jump Statements - Break and Continue
+- Labels in Java
+- Methods in Java: Overview
+- Parameter Passing Mechanism in Java
+- Recursive methods
+- Variable Length Arguments
+- Enumerations in Java
 ```
