@@ -13,58 +13,58 @@ I'm building a solid foundation in Java SE, Web, Spring, Security, and AI integr
 
 ---
 
-[ ] ## Part 1 — Java Fundamentals
+## Part 1 — Java Fundamentals [ ]
 
 ---
 
-[ ] ## Part 2 — Object-Oriented Programming (OOP)
+## Part 2 — Object-Oriented Programming (OOP) [ ]
 
 ---
 
-[ ] ## Part 3 — Version Control & Core Java Advanced
+## Part 3 — Version Control & Core Java Advanced [ ]
 
 ---
 
-[ ] ## Part 4 — Functional & Stream Programming
+## Part 4 — Functional & Stream Programming [ ]
 
 ---
 
-[ ] ## Part 5 — I/O, Multithreading & Advanced Java Features
+## Part 5 — I/O, Multithreading & Advanced Java Features [ ]
 
 ---
 
-[ ] ## Part 6 — Testing & Design Principles
+## Part 6 — Testing & Design Principles [ ]
 
 ---
 
-[ ] ## Part 7 — Internationalization & Java Core Exam
+## Part 7 — Internationalization & Java Core Exam [ ]
 
 ---
 
-[ ] ## Part 8 — Java New Features
+## Part 8 — Java New Features [ ]
 
 ---
 
-[ ] ## Part 9 — Databases & SQL
+## Part 9 — Databases & SQL [ ]
 
 ---
 
-[ ] ## Part 10 — Web Development (Java EE)
+## Part 10 — Web Development (Java EE) [ ]
 
 ---
 
-[ ] ## Part 11 — Security & OWASP
+## Part 11 — Security & OWASP [ ]
 
 ---
 
-[ ] ## Part 12 — ORM & Spring Framework
+## Part 12 — ORM & Spring Framework [ ]
 
 ---
 
-[ ] ## Part 13 — AI Integrations & Automation
+## Part 13 — AI Integrations & Automation [ ]
 
 ---
 
-[ ] ## Part 14 — UML & Software Engineering
+## Part 14 — UML & Software Engineering [ ]
 
 ---
