@@ -37,7 +37,7 @@ I'm building a solid foundation in Java SE, Web, Spring, Security, and AI integr
 
 ---
 
-## Part 7 — Internationalization & Java Core Exam [ ]
+## Part 7 — Internationalization [ ]
 
 ---
 
