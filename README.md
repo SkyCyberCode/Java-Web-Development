@@ -1,7 +1,7 @@
 # Java-Master-Course
 This repository is dedicated to mastering Java from fundamentals to advanced frameworks and integrations.  
 I'm building a solid foundation in Java SE, Web, Spring, Security, and AI integrations — with a strong focus on writing clean, secure, and scalable software.
-
+I aim to share the projects I build and document my learning journey along the way.
 ---
 
 > **Note:** The following checklist represents the full learning roadmap.  
