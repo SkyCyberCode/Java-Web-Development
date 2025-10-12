@@ -10,7 +10,7 @@ The objective of this lab is to demonstrate the usage of Java enums with custom 
 ## Approach / Algorithm
 The program uses two enums: MessageType and Priority. Each MessageType constant (A, B, C, D) is associated with a Priority value. The program validates user input and retrieves the corresponding priority using enum methods.
 
-## 🛠 Step-by-step Implementation
+## Step-by-step Implementation
 1. Read user input using Scanner
 2. Validate if input is a valid message type (A, B, C, or D)
 3. If valid, convert input to MessageType enum and display its priority
