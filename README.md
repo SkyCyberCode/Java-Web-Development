@@ -1,119 +1,70 @@
-# Java-Web-Development
-This repo is dedicated to Web Development with Java.  
-I'm learning how to build web applications from scratch using Java, with a strong focus on Web Security.
+# Java-Master-Course
+This repository is dedicated to mastering Java from fundamentals to advanced frameworks and integrations.  
+I'm building a solid foundation in Java SE, Web, Spring, Security, and AI integrations — with a strong focus on writing clean, secure, and scalable software.
 
 ---
+
 > **Note:** The following checklist represents the full learning roadmap.  
 > - [✓] means **completed**  
 > - [ ] means **not completed yet**
 
 ## Progress  
-![Progress](https://img.shields.io/badge/Progress-8%25-brightgreen)
+![Progress](https://img.shields.io/badge/Progress-0%25-brightgreen)
 
-## Java Basics
-- [✓] Primitive Data Types, Variables and Arrays  
-- [✓] Eclipse Tips and Tricks  
-- [✓] Operators and Operations with Primitive Types  
-- [✓] Strings in Java  
-- [✓] Control Statements  
-- [✓] Iteration Statements (Loops) in Java  
-- [✓] Methods in Java  
-- [ ] Enumerations in Java  
-- [ ] Debugging Tools  
+---
 
-## Object-Oriented Programming
-- [ ] Object-Oriented Programming  
-- [ ] SOLID Principles  
-- [ ] OOP: Interview Preparation  
-- [ ] Object-Oriented Architecture  
-- [ ] GoF Design Patterns  
+[ ] ## Part 1 — Java Fundamentals
 
-## Git & Tools
-- [ ] Git  
-- [ ] Build Automation Tools  
-- [ ] Apache Maven  
-- [ ] UML Introduction  
-- [ ] Behavioral Diagrams  
-- [ ] Structural Diagrams  
+---
 
-## Exception Handling & Collections
-- [ ] Exception Handling  
-- [ ] Java Collections Framework  
-- [ ] Generics  
-- [ ] Functional Programming in Java  
-- [ ] Stream API  
-- [ ] Input and Output Streams in Java  
-- [ ] Multithreading  
-- [ ] Date and Time in JDK  
-- [ ] Java Reflection API  
-- [ ] JDK API  
-- [ ] Java Platform Module System  
+[ ] ## Part 2 — Object-Oriented Programming (OOP)
 
-## Testing
-- [ ] Testing for Software Engineers  
-- [ ] Unit Testing & JUnit 5  
-- [ ] Integration Testing & Mockito  
-- [ ] PowerMockito  
-- [ ] TDD, BDD & ATDD  
+---
 
-## Databases
-- [ ] Databases Overview  
-- [ ] Relational Databases  
-- [ ] SQL  
-- [ ] Relational Databases (Advanced)  
-- [ ] Database Modelling  
-- [ ] JDBC  
-- [ ] DAO  
+[ ] ## Part 3 — Version Control & Core Java Advanced
 
-## Web Development
-- [ ] Web Development Overview  
-- [ ] Servlets  
-- [ ] Web Filters  
-- [ ] Session & Cookies  
-- [ ] Events Handling in Web Applications  
-- [ ] HTML & CSS  
-- [ ] JSP  
-- [ ] Web Application Design Patterns  
-- [ ] Data Access Software Design Pattern  
+---
 
-## Security
-- [ ] OWASP Top 10 2021  
-- [ ] OWASP API Security Top 10 2023  
-- [ ] OWASP Top 10 2025: LLM  
-- [ ] Logging in Java  
-- [ ] Cybersecurity (Introduction)
+[ ] ## Part 4 — Functional & Stream Programming
 
-## ORM & Spring
-- [ ] ORM, JPA & Hibernate  
-- [ ] Spring Core  
-- [ ] Spring MVC & Spring for Web  
-- [ ] Spring Security  
-- [ ] Spring Data  
-- [ ] Spring JDBC  
-- [ ] Spring AOP  
-- [ ] REST Architecture  
-- [ ] Spring Boot  
-- [ ] Resilient, Scalable & Secure Systems with Spring Boot  
+---
 
-## AI & Integrations
-- [ ] OpenAI  
-- [ ] OpenAI API: ChatGPT Model  
-- [ ] Web Hosting at Home  
-- [ ] GPT + Slack Integration  
-- [ ] Jira  
-- [ ] GPT + Slack + Jira + Gmail Integration  
-- [ ] Manage a Scrum Team with ChatGPT  
-- [ ] DALL-E  
-- [ ] Whisper  
+[ ] ## Part 5 — I/O, Multithreading & Advanced Java Features
 
-## Software Engineering Practices
-- [ ] Code Review Fundamentals  
-- [ ] Tools & Automation  
-- [ ] Advanced Code Review Strategies  
-- [ ] Engineering Excellence - Software Development: Metrics & KPIs  
-- [ ] Engineering Excellence - Build Metrics & KPIs  
-- [ ] Engineering Excellence - Release Metrics & KPIs  
-- [ ] Quality Assurance - Defect Management  
-- [ ] Quality Assurance - Testing  
-- [ ] Quality Assurance - Test Automation  
-- [ ] Extreme Programming  
+---
+
+[ ] ## Part 6 — Testing & Design Principles
+
+---
+
+[ ] ## Part 7 — Internationalization & Java Core Exam
+
+---
+
+[ ] ## Part 8 — Java New Features
+
+---
+
+[ ] ## Part 9 — Databases & SQL
+
+---
+
+[ ] ## Part 10 — Web Development (Java EE)
+
+---
+
+[ ] ## Part 11 — Security & OWASP
+
+---
+
+[ ] ## Part 12 — ORM & Spring Framework
+
+---
+
+[ ] ## Part 13 — AI Integrations & Automation
+
+---
+
+[ ] ## Part 14 — UML & Software Engineering
+
+---
