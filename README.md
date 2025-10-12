@@ -1,4 +1,4 @@
-# 🧠 Java Master Course
+# Java Web Development
 
 This repository is dedicated to **mastering Java** — from the fundamentals to advanced frameworks and real-world integrations.  
 I’m building a **solid foundation** in **Java SE**, **Web**, **Spring**, **Security**, and **AI integrations**,  
